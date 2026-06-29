@@ -1,0 +1,14 @@
+{
+  "name": "argentina-cre-plasmidome-2021-public",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate:inputs": "python3 scripts/03_tables/build_input_inventory.py",
+    "validate:release": "python3 scripts/03_tables/validate_public_release.py",
+    "validate:sankey": "python3 scripts/02_backbone_assignment/validate_sankey_input.py",
+    "figure3:svg": "node scripts/04_figures/make_figure3_sankey.mjs --out-dir validation/figure3_sankey_regenerated_svg",
+    "validate": "npm run validate:inputs && npm run validate:release && npm run validate:sankey && npm run figure3:svg"
+  },
+  "dependencies": {}
+}

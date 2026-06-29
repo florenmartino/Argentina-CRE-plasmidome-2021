@@ -1,0 +1,9 @@
+name: argentina-cre-plasmidome-2021
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - nodejs=20
+  - blast=2.16
+  - librsvg=2.58

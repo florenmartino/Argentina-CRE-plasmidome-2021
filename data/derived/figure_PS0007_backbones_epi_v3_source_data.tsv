@@ -1,0 +1,76 @@
+record_type	display_cluster	plasmid_id	representative	is_representative	origin	is_genbank	carbapenemase	size_bp	size_kb	wgs_id	species	st	province	identity_percent	coverage_percent
+closed_plasmid	C01	pM27284_79	pZDA002_73	False	GenBank	True	KPC-3	79415	79.0						
+closed_plasmid	C01	pPAD003_131	pZDA002_73	False	This study	False	NDM-5	130638	131.0						
+closed_plasmid	C01	pZAC001_148	pZDA002_73	False	This study	False	KPC-2	148374	148.0						
+closed_plasmid	C01	pZDA002_73	pZDA002_73	True	This study	False	KPC-2	73455	73.0						
+closed_plasmid	C01	pZEI002_55	pZDA002_73	False	This study	False	KPC-2	54777	55.0						
+closed_plasmid	C02	pBAR001_77	pZCU001_77	False	This study	False	KPC-2	77141	77.0						
+closed_plasmid	C02	pM25979_84	pZCU001_77	False	GenBank	True	KPC-2	84276	84.0						
+closed_plasmid	C02	pROS002_77	pZCU001_77	False	This study	False	KPC-2	77141	77.0						
+closed_plasmid	C02	pZCU001_77	pZCU001_77	True	This study	False	KPC-2	76609	77.0						
+closed_plasmid	C02	pZDZ001_75	pZCU001_77	False	This study	False	KPC-2	75350	75.0						
+closed_plasmid	C03	pM25992_249	pM25992_249	True	GenBank	True	NDM-5	249062	249.0						
+closed_plasmid	C03	pM25979_249	pM25992_249	False	GenBank	True	NDM-5	249264	249.0						
+closed_plasmid	C03	pZAG001_232	pM25992_249	False	This study	False	KPC-2	232044	232.0						
+closed_plasmid	C03	pZCA001_256	pM25992_249	False	This study	False	NDM-5	255709	256.0						
+closed_plasmid	C03	pZDA001_456	pM25992_249	False	This study	False	NDM-5	456203	456.0						
+closed_plasmid	C03	PQ247031.1	pM25992_249	False	GenBank	True	NDM-5	258482	258.0						
+closed_plasmid	C03	PQ247032.1	pM25992_249	False	GenBank	True	NDM-5	252810	253.0						
+closed_plasmid	C04	pCBO001_150	pCBO001_150	True	This study	False	OXA-517-like	149728	150.0						
+closed_plasmid	C04	pM27284_154	pCBO001_150	False	GenBank	True	NDM-1	154458	154.0						
+closed_plasmid	C04	pHCU002_151	pCBO001_150	False	This study	False	NDM-1	150789	151.0						
+closed_plasmid	C04	pM17277_139	pCBO001_150	False	GenBank	True	OXA-517-like	138998	139.0						
+closed_plasmid	C04	pZCA001_134	pCBO001_150	False	This study	False	OXA-163	134201	134.0						
+closed_plasmid	C04	pZCU001_132	pCBO001_150	False	This study	False	OXA-163	131526	132.0						
+closed_plasmid	C04	pZCV001_167	pCBO001_150	False	This study	False	KPC-3	167061	167.0						
+closed_plasmid	C05	pCOS001_98	PQ241463.1	False	This study	False	NDM-5	97647	98.0						
+closed_plasmid	C05	PQ241462.1	PQ241463.1	False	GenBank	True	NDM-5	104782	105.0						
+closed_plasmid	C05	PQ241463.1	PQ241463.1	True	GenBank	True	NDM-5	97651	98.0						
+recaptar_isolate	C01						KPC-2			JAF001	K. pneumoniae	ST258	CABA	99.9	96.5
+recaptar_isolate	C01						KPC-3			ZCE002	K. pneumoniae	ST11	CABA	99.8	91.2
+recaptar_isolate	C01						KPC-2			ZCS001	K. pneumoniae	ST258	CABA	99.8	98.0
+recaptar_isolate	C01						KPC-2+NDM-5			ZCZ001	K. pneumoniae	ST258	CABA	99.9	96.5
+recaptar_isolate	C01						KPC-2			ZET001	K. pneumoniae	ST11	Santa Fe	99.7	85.0
+recaptar_isolate	C01						KPC-2			ZEV015	K. pneumoniae	ST11	Santa Fe	99.8	85.9
+recaptar_isolate	C02						KPC-2			HCF003	E. hormaechei	ST190	Formosa	99.8	87.4
+recaptar_isolate	C02						KPC-2			HCM001	K. pneumoniae	ST13	Mendoza	99.9	97.8
+recaptar_isolate	C02						KPC-2			HMI002	E. hormaechei	ST190	Salta	99.8	91.6
+recaptar_isolate	C02						KPC-2			HMI003	K. pneumoniae	ST37	Salta	99.7	87.8
+recaptar_isolate	C02						KPC-3			HVB003	S. marcescens	untyped	La Rioja	99.7	80.2
+recaptar_isolate	C02						KPC-3			HVB004	K. pneumoniae	ST14	La Rioja	99.7	80.2
+recaptar_isolate	C02						KPC-2			JP2001	K. pneumoniae	ST716	Corrientes	99.9	87.7
+recaptar_isolate	C02						KPC-2			RSP001	S. marcescens	untyped	Santa Fe	99.8	78.2
+recaptar_isolate	C02						KPC-2			ZAN001	K. pneumoniae	ST11	Buenos Aires	99.9	98.1
+recaptar_isolate	C02						KPC-2			ZBF001	K. pneumoniae	ST716	Buenos Aires	99.8	95.0
+recaptar_isolate	C02						KPC-3			ZDL004	K. pneumoniae	ST462	Córdoba	99.8	87.2
+recaptar_isolate	C02						KPC-2			ZEU001	E. hormaechei	ST66	Santa Fe	99.8	87.8
+recaptar_isolate	C02						KPC-2			ZEV013	K. pneumoniae	ST15	Santa Fe	99.9	98.0
+recaptar_isolate	C02						KPC-2			ZEV019	K. pneumoniae	ST15	Santa Fe	99.9	98.0
+recaptar_isolate	C03						NDM-5			ZBB001	K. pneumoniae	ST11	Buenos Aires	99.9	94.3
+recaptar_isolate	C03						NDM-5			ZBB003	K. pneumoniae	ST11	Buenos Aires	99.9	98.6
+recaptar_isolate	C03						NDM-5			ZBF003	K. pneumoniae	ST5994	Buenos Aires	99.8	100.0
+recaptar_isolate	C03						NDM-5			ZBK001	K. pneumoniae	ST307	Buenos Aires	99.8	99.0
+recaptar_isolate	C03						NDM-5			ZCC003	K. pneumoniae	ST273	CABA	99.7	100.0
+recaptar_isolate	C03						NDM-5			ZCG001	K. aerogenes	ST695	CABA	99.9	99.9
+recaptar_isolate	C03						KPC-2+NDM-5			ZCZ001	K. pneumoniae	ST258	CABA	99.9	91.2
+recaptar_isolate	C03						KPC-2			ZEU002	K. pneumoniae	ST392	Santa Fe	98.0	79.3
+recaptar_isolate	C04						NDM-1			GUT001	K. pneumoniae	ST2632	CABA	98.7	71.1
+recaptar_isolate	C04						NDM-1			HCU001	P. mirabilis	untyped	Santa Fe	98.8	80.7
+recaptar_isolate	C04						NDM-1			ZBB002	K. pneumoniae	ST525	Buenos Aires	98.8	72.2
+recaptar_isolate	C04						OXA-163			ZBW003	K. pneumoniae	ST258	Buenos Aires	100.0	99.8
+recaptar_isolate	C04						OXA-163			ZCY001	K. pneumoniae	ST5995	CABA	99.9	86.1
+recaptar_isolate	C05						NDM-5			FAV001	K. pneumoniae	ST258	CABA	99.9	99.9
+recaptar_isolate	C05						NDM-5			HCE001	K. pneumoniae	ST258	Buenos Aires	99.9	100.0
+recaptar_isolate	C05						NDM-5			HCF002	K. pneumoniae	ST11	Formosa	99.9	99.8
+recaptar_isolate	C05						NDM-5			HSP001	K. pneumoniae	ST11	Chaco	100.0	99.5
+recaptar_isolate	C05						NDM-5			PAD001	K. pneumoniae	ST11	Tucumán	99.9	99.9
+recaptar_isolate	C05						NDM-5			ZAT001	K. pneumoniae	ST258	Buenos Aires	99.9	100.0
+recaptar_isolate	C05						NDM-5			ZAT002	K. pneumoniae	ST258	Buenos Aires	99.9	100.0
+recaptar_isolate	C05						NDM-5			ZAT003	K. pneumoniae	ST258	Buenos Aires	100.0	96.0
+recaptar_isolate	C05						NDM-5			ZAU001	K. pneumoniae	ST258	Buenos Aires	99.9	100.0
+recaptar_isolate	C05						NDM-5			ZBE001	K. pneumoniae	ST11	Buenos Aires	100.0	99.8
+recaptar_isolate	C05						NDM-5			ZBE002	K. pneumoniae	ST258	Buenos Aires	100.0	99.8
+recaptar_isolate	C05						NDM-5			ZBN002	K. pneumoniae	ST11	Buenos Aires	99.9	90.6
+recaptar_isolate	C05						NDM-5			ZCC001	K. pneumoniae	ST11	CABA	100.0	99.9
+recaptar_isolate	C05						NDM-5			ZCC002	K. pneumoniae	ST258	CABA	100.0	100.0
+recaptar_isolate	C05						NDM-5			ZDD001	K. pneumoniae	ST11	Córdoba	99.9	99.6

@@ -1,0 +1,89 @@
+source_repository	source_path	destination	reason
+Generated for public release		.gitignore	Public release documentation, environment, validation output, or traceability report
+Generated for public release		DATA_AVAILABILITY.md	Public release documentation, environment, validation output, or traceability report
+Generated for public release		MANIFEST.md	Public release documentation, environment, validation output, or traceability report
+Generated for public release		README.md	Public release documentation, environment, validation output, or traceability report
+Generated for public release		REPRODUCIBILITY.md	Public release documentation, environment, validation output, or traceability report
+Generated for public release		SCRIPT_DAG.md	Public release documentation, environment, validation output, or traceability report
+Generated for public release		WORKFLOW.md	Public release documentation, environment, validation output, or traceability report
+Generated for public release		environment.yml	Public release documentation, environment, validation output, or traceability report
+Generated for public release		package-lock.json	Public release documentation, environment, validation output, or traceability report
+Generated for public release		package.json	Public release documentation, environment, validation output, or traceability report
+Generated for public release		scripts/03_tables/validate_public_release.py	Public release documentation, environment, validation output, or traceability report
+Generated for public release		validation/figure3_sankey_counts.tsv	Public release documentation, environment, validation output, or traceability report
+Generated for public release		validation/figure3_sankey_validation.md	Public release documentation, environment, validation output, or traceability report
+Generated for public release		validation/input_inventory.tsv	Public release documentation, environment, validation output, or traceability report
+Generated for public release		validation/reference_plasmid_validation.md	Public release documentation, environment, validation output, or traceability report
+Generated for public release		validation/release_hashes.tsv	Public release documentation, environment, validation output, or traceability report
+Generated for public release		validation/release_validation.md	Public release documentation, environment, validation output, or traceability report
+Generated for public release		validation/traceability_excluded_files.tsv	Public release documentation, environment, validation output, or traceability report
+Generated for public release		validation/traceability_retained_files.tsv	Public release documentation, environment, validation output, or traceability report
+Curated manuscript repository	data/accession_lists/reference_plasmids_34.tsv	data/accession_lists/reference_plasmids_34.tsv	Final curated manuscript input, figure file, or public validation script
+Curated manuscript repository	data/derived/all_candidate_hits.tsv	data/derived/all_candidate_hits.tsv	Final curated manuscript input, figure file, or public validation script
+Curated manuscript repository	data/derived/duplicate_candidate_summary.tsv	data/derived/duplicate_candidate_summary.tsv	Final curated manuscript input, figure file, or public validation script
+Curated manuscript repository	data/derived/excluded_small_plasmid_hits.tsv	data/derived/excluded_small_plasmid_hits.tsv	Final curated manuscript input, figure file, or public validation script
+Curated manuscript repository	data/derived/figure_PS0007_backbones_epi_v3_source_data.tsv	data/derived/figure_PS0007_backbones_epi_v3_source_data.tsv	Final curated manuscript input, figure file, or public validation script
+Curated manuscript repository	data/derived/final_assignments.tsv	data/derived/final_assignments.tsv	Final curated manuscript input, figure file, or public validation script
+Curated manuscript repository	data/derived/focus_candidate_hits.tsv	data/derived/focus_candidate_hits.tsv	Final curated manuscript input, figure file, or public validation script
+Curated manuscript repository	data/metadata/assembly_inventory.tsv	data/metadata/assembly_inventory.tsv	Final curated manuscript input, figure file, or public validation script
+Curated manuscript repository	data/plasmid_references/genbank_missing/PQ241462.1.fasta	data/plasmid_references/genbank_missing/PQ241462.1.fasta	GenBank accession provenance FASTA retained with reference collection
+Curated manuscript repository	data/plasmid_references/genbank_missing/PQ241463.1.fasta	data/plasmid_references/genbank_missing/PQ241463.1.fasta	GenBank accession provenance FASTA retained with reference collection
+Curated manuscript repository	data/plasmid_references/genbank_missing/PQ247031.1.fasta	data/plasmid_references/genbank_missing/PQ247031.1.fasta	GenBank accession provenance FASTA retained with reference collection
+Curated manuscript repository	data/plasmid_references/genbank_missing/PQ247032.1.fasta	data/plasmid_references/genbank_missing/PQ247032.1.fasta	GenBank accession provenance FASTA retained with reference collection
+Curated manuscript repository	data/plasmid_references/references_34/BAR001_KPC_2.fasta	data/plasmid_references/references_34/BAR001_KPC_2.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/CBO001_OXA_48L.fasta	data/plasmid_references/references_34/CBO001_OXA_48L.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/COS001_NDM_5.fasta	data/plasmid_references/references_34/COS001_NDM_5.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/CP166596.1_pM25992_249_IncFIB_IncHI1B_blaNDM-5.fasta	data/plasmid_references/references_34/CP166596.1_pM25992_249_IncFIB_IncHI1B_blaNDM-5.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/CP166597.1_pM25992_10_IncFIB_pQil_IncFII_K_blaKPC-2_.fasta	data/plasmid_references/references_34/CP166597.1_pM25992_10_IncFIB_pQil_IncFII_K_blaKPC-2_.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/CP166600.1_pM25979_249_IncFIB-IncHI1B_blaNDM-5_.fasta	data/plasmid_references/references_34/CP166600.1_pM25979_249_IncFIB-IncHI1B_blaNDM-5_.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/CP166602.1_pM25979_84_IncM1_blaKPC-2.fasta	data/plasmid_references/references_34/CP166602.1_pM25979_84_IncM1_blaKPC-2.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/CP166604.1_pM27284_154_IncC_blaNDM-1.fasta	data/plasmid_references/references_34/CP166604.1_pM27284_154_IncC_blaNDM-1.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/CP166605.1_pM27284_79_IncR_blaKPC-3_.fasta	data/plasmid_references/references_34/CP166605.1_pM27284_79_IncR_blaKPC-3_.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/HCU002_NDM_1.fasta	data/plasmid_references/references_34/HCU002_NDM_1.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/MH995507.1_pM17277_NDM.fasta	data/plasmid_references/references_34/MH995507.1_pM17277_NDM.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/MN082782.1_pPA2047.fasta	data/plasmid_references/references_34/MN082782.1_pPA2047.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/PAD003_KPC_2.fasta	data/plasmid_references/references_34/PAD003_KPC_2.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/PAD003_NDM_5.fasta	data/plasmid_references/references_34/PAD003_NDM_5.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/PQ241462.1.fasta	data/plasmid_references/references_34/PQ241462.1.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/PQ241463.1.fasta	data/plasmid_references/references_34/PQ241463.1.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/PQ247031.1.fasta	data/plasmid_references/references_34/PQ247031.1.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/PQ247032.1.fasta	data/plasmid_references/references_34/PQ247032.1.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/ROS002_KPC_2.fasta	data/plasmid_references/references_34/ROS002_KPC_2.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/VLP001_OXA_439.fasta	data/plasmid_references/references_34/VLP001_OXA_439.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/ZAC001_KPC_2.fasta	data/plasmid_references/references_34/ZAC001_KPC_2.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/ZAG001_KPC_2.fasta	data/plasmid_references/references_34/ZAG001_KPC_2.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/ZCA001_NDM_5.fasta	data/plasmid_references/references_34/ZCA001_NDM_5.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/ZCA001_OXA_163.fasta	data/plasmid_references/references_34/ZCA001_OXA_163.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/ZCU001_KPC_2.fasta	data/plasmid_references/references_34/ZCU001_KPC_2.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/ZCU001_OXA_163.fasta	data/plasmid_references/references_34/ZCU001_OXA_163.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/ZCV001_KPC_3.fasta	data/plasmid_references/references_34/ZCV001_KPC_3.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/ZDA001_NDM_5.fasta	data/plasmid_references/references_34/ZDA001_NDM_5.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/ZDA002_KPC_2.fasta	data/plasmid_references/references_34/ZDA002_KPC_2.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/ZDZ001_KPC_2.fasta	data/plasmid_references/references_34/ZDZ001_KPC_2.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/ZEI002_KPC_2.fasta	data/plasmid_references/references_34/ZEI002_KPC_2.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/pHdC_pae_OL780449.1.fasta	data/plasmid_references/references_34/pHdC_pae_OL780449.1.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/pWW14A-KPC2_CP080103.1.fasta	data/plasmid_references/references_34/pWW14A-KPC2_CP080103.1.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	data/plasmid_references/references_34/pWW19C-KPC2_CP080110.1.fasta	data/plasmid_references/references_34/pWW19C-KPC2_CP080110.1.fasta	Final 34-reference FASTA collection
+Curated manuscript repository	figures/figure2_backbone_summary/figure_PS0007_backbones_epi_v3.pdf	figures/figure2_backbone_summary/figure_PS0007_backbones_epi_v3.pdf	Final curated manuscript input, figure file, or public validation script
+Curated manuscript repository	figures/figure2_backbone_summary/figure_PS0007_backbones_epi_v3.pptx	figures/figure2_backbone_summary/figure_PS0007_backbones_epi_v3.pptx	Final curated manuscript input, figure file, or public validation script
+Curated manuscript repository	figures/figure3_sankey/RECAPTARII_Figure3_sankey_final.pdf	figures/figure3_sankey/RECAPTARII_Figure3_sankey_final.pdf	Final curated manuscript input, figure file, or public validation script
+Curated manuscript repository	figures/figure3_sankey/RECAPTARII_Figure3_sankey_final.pptx	figures/figure3_sankey/RECAPTARII_Figure3_sankey_final.pptx	Final curated manuscript input, figure file, or public validation script
+Curated manuscript repository	figures/figure3_sankey/RECAPTARII_Figure3_sankey_final.svg	figures/figure3_sankey/RECAPTARII_Figure3_sankey_final.svg	Final curated manuscript input, figure file, or public validation script
+Curated manuscript repository	figures/figure3_sankey/RECAPTARII_Figure3_sankey_final_600dpi.png	figures/figure3_sankey/RECAPTARII_Figure3_sankey_final_600dpi.png	Final curated manuscript input, figure file, or public validation script
+Curated manuscript repository	figures/figure3_sankey/sankey_input_final.tsv	figures/figure3_sankey/sankey_input_final.tsv	Final curated manuscript input, figure file, or public validation script
+Curated manuscript repository	figures/figure3_sankey/validation_report.md	figures/figure3_sankey/validation_report.md	Final curated manuscript input, figure file, or public validation script
+Curated manuscript repository	scripts/01_reference_plasmid_workflow/cluster_reference_plasmids.sh	scripts/01_reference_plasmid_workflow/cluster_reference_plasmids.sh	Final curated manuscript input, figure file, or public validation script
+Curated manuscript repository	scripts/02_backbone_assignment/validate_sankey_input.py	scripts/02_backbone_assignment/validate_sankey_input.py	Final curated manuscript input, figure file, or public validation script
+Curated manuscript repository	scripts/03_tables/build_input_inventory.py	scripts/03_tables/build_input_inventory.py	Final curated manuscript input, figure file, or public validation script
+Curated manuscript repository	scripts/04_figures/make_figure3_sankey.mjs	scripts/04_figures/make_figure3_sankey.mjs	Final curated manuscript input, figure file, or public validation script
+Original computational repository	data/plasmid_references/reference_inventory_34.tsv	data/accession_lists/reference_inventory_34.tsv	Minimal PS0007 computational provenance required to trace final manuscript products
+Original computational repository	reproducibility_run_20260620_1504/updated_table_PS0007/critical_checks_PS0007.tsv	data/provenance/ps0007_reference_workflow/critical_checks_PS0007.tsv	Minimal PS0007 computational provenance required to trace final manuscript products
+Original computational repository	reproducibility_run_20260620_1504/updated_table_PS0007/group_summary_PS0007.tsv	data/provenance/ps0007_reference_workflow/group_summary_PS0007.tsv	Minimal PS0007 computational provenance required to trace final manuscript products
+Original computational repository	reproducibility_run_20260620_1504/reference_workflow_comparison.md	data/provenance/ps0007_reference_workflow/reference_workflow_comparison.md	Minimal PS0007 computational provenance required to trace final manuscript products
+Original computational repository	reproducibility_run_20260620_1504/representatives_PS0007/representative_selection_report.md	data/provenance/ps0007_reference_workflow/representative_selection_report.md	Minimal PS0007 computational provenance required to trace final manuscript products
+Original computational repository	reproducibility_run_20260620_1504/updated_table_PS0007/updated_cluster_table_PS0007.tsv	data/provenance/ps0007_reference_workflow/updated_cluster_table_PS0007.tsv	Minimal PS0007 computational provenance required to trace final manuscript products
+Original computational repository	reproducibility_run_20260620_1504/updated_table_PS0007/updated_cluster_table_PS0007.xlsx	data/provenance/ps0007_reference_workflow/updated_cluster_table_PS0007.xlsx	Minimal PS0007 computational provenance required to trace final manuscript products
+Original computational repository	reproducibility_run_20260620_1504/updated_table_PS0007/updated_table_change_log.md	data/provenance/ps0007_reference_workflow/updated_table_change_log.md	Minimal PS0007 computational provenance required to trace final manuscript products
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/backbone_assignments_PS0007.tsv	data/provenance/ps0007_short_read_assignment/backbone_assignments_PS0007.tsv	Minimal PS0007 computational provenance required to trace final manuscript products
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/coverage_summary_PS0007.tsv	data/provenance/ps0007_short_read_assignment/coverage_summary_PS0007.tsv	Minimal PS0007 computational provenance required to trace final manuscript products
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/delta_rule_impact_PS0007.tsv	data/provenance/ps0007_short_read_assignment/delta_rule_impact_PS0007.tsv	Minimal PS0007 computational provenance required to trace final manuscript products

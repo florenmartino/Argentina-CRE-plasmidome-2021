@@ -1,0 +1,15 @@
+check	status	expected	observed	missing	unexpected
+C01_membership	PASS	pM27284_79; pPAD003_131; pZAC001_148; pZDA002_73; pZEI002_55	pM27284_79; pPAD003_131; pZAC001_148; pZDA002_73; pZEI002_55	none	none
+C02_membership	PASS	pBAR001_77; pM25979_84; pROS002_77; pZCU001_77; pZDZ001_75	pBAR001_77; pM25979_84; pROS002_77; pZCU001_77; pZDZ001_75	none	none
+C03_membership	PASS	PQ247031.1; PQ247032.1; pM25979_249; pM25992_249; pZAG001_232; pZCA001_256; pZDA001_456	PQ247031.1; PQ247032.1; pM25979_249; pM25992_249; pZAG001_232; pZCA001_256; pZDA001_456	none	none
+C04_membership	PASS	pCBO001_150; pHCU002_151; pM17277_139; pM27284_154; pZCA001_134; pZCU001_132; pZCV001_167	pCBO001_150; pHCU002_151; pM17277_139; pM27284_154; pZCA001_134; pZCU001_132; pZCV001_167	none	none
+C05_membership	PASS	PQ241462.1; PQ241463.1; pCOS001_98	PQ241462.1; PQ241463.1; pCOS001_98	none	none
+C06_membership	PASS	pWW14A-KPC2; pWW19C-KPC2	pWW14A-KPC2; pWW19C-KPC2	none	none
+S01_membership	PASS	pPAD003_22	pPAD003_22	none	none
+S03_membership	PASS	pM25992_107	pM25992_107	none	none
+S04_membership	PASS	pVLP001_339	pVLP001_339	none	none
+S05_membership	PASS	pPA2047_44	pPA2047_44	none	none
+S06_membership	PASS	pHdC_pae	pHdC_pae	none	none
+34_plasmids	PASS	34	34	none	none
+pCOS001_98_not_singleton	PASS	C05	C05	none	none
+17_short_read_changes_S02_to_C05_only	PASS	17 changes, all S02-to-C05 relabeling only	17 changed rows; 0 not explained by S02-to-C05 display relabeling	none	none

@@ -1,0 +1,9 @@
+isolate	reference	reference_length_bp	cluster_or_singleton_label	representative_yes_no	pident	merged_aligned_bp	reference_coverage_percent	carbapenemase_gene	plasmid_size_class	passed_identity_95	passed_coverage_70	candidate_rank_by_coverage	final_selected_yes_no	reason_selected_or_excluded
+FAV001	pPAD003_22	21651	S01	True	99.5	15264	70.5	NDM-5	small_lt_30000	True	True	2	no	excluded small reference; best >=30000 bp candidate coverage was 99.9 and delta was -29.4
+HVB004	pPAD003_22	21651	S01	True	99.7	18057	83.4	KPC-3	small_lt_30000	True	True	1	no	excluded small reference; best >=30000 bp candidate coverage was 80.2 and delta was 3.2
+JAF001	pPAD003_22	21651	S01	True	99.5	16585	76.6	KPC-2	small_lt_30000	True	True	2	no	excluded small reference; best >=30000 bp candidate coverage was 96.5 and delta was -19.9
+ZBE002	pPAD003_22	21651	S01	True	99.5	15199	70.2	NDM-5	small_lt_30000	True	True	3	no	excluded small reference; best >=30000 bp candidate coverage was 99.8 and delta was -29.6
+ZCC002	pPAD003_22	21651	S01	True	99.5	15264	70.5	NDM-5	small_lt_30000	True	True	2	no	excluded small reference; best >=30000 bp candidate coverage was 100.0 and delta was -29.5
+ZCE002	pPAD003_22	21651	S01	True	99.5	17256	79.7	KPC-3	small_lt_30000	True	True	2	no	excluded small reference; best >=30000 bp candidate coverage was 91.2 and delta was -11.5
+ZCS001	pPAD003_22	21651	S01	True	99.5	16585	76.6	KPC-2	small_lt_30000	True	True	2	no	excluded small reference; best >=30000 bp candidate coverage was 98.0 and delta was -21.4
+ZCZ001	pPAD003_22	21651	S01	True	99.8	16152	74.6	KPC-2+NDM-5	small_lt_30000	True	True	3	no	excluded small reference; best >=30000 bp candidate coverage was 96.5 and delta was -21.9

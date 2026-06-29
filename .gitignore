@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+validation/reference_plasmid_workflow/
+validation/figure3_sankey_regenerated_svg/

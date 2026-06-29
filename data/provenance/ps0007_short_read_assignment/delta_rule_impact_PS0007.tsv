@@ -1,0 +1,9 @@
+sample	small_group	small_reference	small_coverage_percent	small_is_top_hit	best_other_group	best_other_reference	best_other_coverage_percent	delta_small_minus_best_other_fraction	passes_delta_ge_0_15	effect_if_delta_rule_applied_to_small_assignments
+FAV001.contigs	S01	pPAD003_22	70.541776	False	C06	PQ241463.1	99.949821	-0.294080	False	remove_or_review_small_assignment
+HVB004.contigs	S01	pPAD003_22	83.409542	True	C02	pZCU001_77	80.158989	0.032506	False	remove_or_review_small_assignment
+JAF001.contigs	S01	pPAD003_22	76.615399	False	C01	pZDA002_73	96.498537	-0.198831	False	remove_or_review_small_assignment
+ZBE002.contigs	S01	pPAD003_22	70.167660	False	C06	PQ241463.1	99.835127	-0.296675	False	remove_or_review_small_assignment
+ZCC002.contigs	S01	pPAD003_22	70.541776	False	C06	PQ241463.1	100.000000	-0.294582	False	remove_or_review_small_assignment
+ZCE002.contigs	S01	pPAD003_22	79.714563	False	C01	pZDA002_73	91.215030	-0.115005	False	remove_or_review_small_assignment
+ZCS001.contigs	S01	pPAD003_22	76.615399	False	C01	pZDA002_73	97.971547	-0.213561	False	remove_or_review_small_assignment
+ZCZ_001_SECOND_New_assembly	S01	pPAD003_22	74.615491	False	C01	pZDA002_73	96.501259	-0.218858	False	remove_or_review_small_assignment

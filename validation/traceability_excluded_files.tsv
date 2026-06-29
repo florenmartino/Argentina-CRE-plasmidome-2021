@@ -1,0 +1,275 @@
+source_repository	source_path	reason
+Curated manuscript repository	.gitignore	Not required for the final public workflow or retained provenance
+Curated manuscript repository	MANIFEST.md	Documentation or environment file rewritten for the public release repository
+Curated manuscript repository	README.md	Documentation or environment file rewritten for the public release repository
+Curated manuscript repository	docs/DATA_AVAILABILITY.md	Documentation or environment file rewritten for the public release repository
+Curated manuscript repository	docs/FIGURE3_SANKEY_WORKFLOW.md	Documentation or environment file rewritten for the public release repository
+Curated manuscript repository	docs/REPRODUCIBILITY_NOTES.md	Documentation or environment file rewritten for the public release repository
+Curated manuscript repository	docs/SCRIPT_DAG.md	Documentation or environment file rewritten for the public release repository
+Curated manuscript repository	docs/WORKFLOW.md	Documentation or environment file rewritten for the public release repository
+Curated manuscript repository	environment.yml	Documentation or environment file rewritten for the public release repository
+Curated manuscript repository	package-lock.json	Documentation or environment file rewritten for the public release repository
+Curated manuscript repository	package.json	Documentation or environment file rewritten for the public release repository
+Curated manuscript repository	validation/figure2_backbone_summary_pptx_inspect.ndjson	Validation output superseded by public release validation reports
+Curated manuscript repository	validation/figure2_backbone_summary_validation.md	Validation output superseded by public release validation reports
+Curated manuscript repository	validation/figure3_sankey_counts.tsv	Validation output superseded by public release validation reports
+Curated manuscript repository	validation/figure3_sankey_display_flows.tsv	Validation output superseded by public release validation reports
+Curated manuscript repository	validation/figure3_sankey_input_audit.tsv	Validation output superseded by public release validation reports
+Curated manuscript repository	validation/figure3_sankey_input_counts.tsv	Validation output superseded by public release validation reports
+Curated manuscript repository	validation/figure3_sankey_pptx_inspect.ndjson	Validation output superseded by public release validation reports
+Curated manuscript repository	validation/figure3_sankey_validation.md	Validation output superseded by public release validation reports
+Curated manuscript repository	validation/input_inventory.tsv	Validation output superseded by public release validation reports
+Curated manuscript repository	validation/reference_plasmid_validation.md	Validation output superseded by public release validation reports
+Curated manuscript repository	validation/release_hashes.tsv	Validation output superseded by public release validation reports
+Curated manuscript repository	validation/workflow_validation.md	Validation output superseded by public release validation reports
+Original computational repository	Figure3_RECAPTARII_sankey_publication.pdf	Not required for the final public workflow or retained provenance
+Original computational repository	README.md	Documentation or environment file rewritten for the public release repository
+Original computational repository	data/plasmid_references/genbank_missing/GENBANK_REFERENCE_VALIDATION.tsv	Duplicate reference sequence source; final FASTA retained from the curated Mac repository
+Original computational repository	outputs/tables/previous_sankey_assignment_rows_for_comparison.tsv	Not required for the final public workflow or retained provenance
+Original computational repository	reproducibility_run_20260620_1504/Suppl.Table_S1_v15-5-26.xlsx	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/all_plasmids.fa	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/all_plasmids_doubled.fa	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/blast_all_vs_all.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/blastdb/plasmids.ndb	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/blastdb/plasmids.nhr	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/blastdb/plasmids.nin	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/blastdb/plasmids.njs	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/blastdb/plasmids.not	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/blastdb/plasmids.nsq	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/blastdb/plasmids.ntf	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/blastdb/plasmids.nto	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/cluster_analysis/edges.candidates.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/cluster_analysis/edges.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/cluster_analysis/plasmid_cluster.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/cluster_analysis/singleton_ids.list	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/cluster_analysis/singleton_seqs.list	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/cluster_mapping_30_to_34.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/cluster_representatives_medoid.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/cluster_summary_34.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/len_orig.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/logs/clustering.sh.stderr.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/logs/clustering.sh.stdout.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/logs/mash_dist_k17.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/logs/mash_dist_k21.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/logs/mash_dist_k31.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/logs/mash_sketch_k17.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/logs/mash_sketch_k21.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/logs/mash_sketch_k31.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/logs/pick_representatives.py.stderr.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/logs/pick_representatives.py.stdout.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/pairwise_long.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/parameter_search_preserve_original30/acceptable_parameter_sets.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/parameter_search_preserve_original30/best_parameter_set_report.md	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/parameter_search_preserve_original30/edge_failures_explaining_movements.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/parameter_search_preserve_original30/logs/parameter_search.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/parameter_search_preserve_original30/new_pq_placement_report.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/parameter_search_preserve_original30/old_plasmid_movement_report.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/parameter_search_preserve_original30/parameter_grid_preserve_original30.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/precluster/all_ids.txt	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/precluster/dist_k17.raw	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/precluster/dist_k17.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/precluster/dist_k21.raw	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/precluster/dist_k21.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/precluster/dist_k31.raw	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/precluster/dist_k31.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/precluster/dist_max.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/precluster/edges_pre.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/precluster/labeled_ids.txt	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/precluster/precluster_labels.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/precluster/sketch_k17.msh	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/precluster/sketch_k21.msh	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/precluster/sketch_k31.msh	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/BAR001_KPC_2.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/CBO001_OXA_48L.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/COS001_NDM_5.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/CP166596.1_pM25992_249_IncFIB_IncHI1B_blaNDM-5.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/CP166597.1_pM25992_10_IncFIB_pQil_IncFII_K_blaKPC-2_.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/CP166600.1_pM25979_249_IncFIB-IncHI1B_blaNDM-5_.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/CP166602.1_pM25979_84_IncM1_blaKPC-2.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/CP166604.1_pM27284_154_IncC_blaNDM-1.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/CP166605.1_pM27284_79_IncR_blaKPC-3_.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/HCU002_NDM_1.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/MH995507.1_pM17277_NDM.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/MN082782.1_pPA2047.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/PAD003_KPC_2.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/PAD003_NDM_5.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/PQ241462.1.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/PQ241463.1.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/PQ247031.1.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/PQ247032.1.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/ROS002_KPC_2.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/VLP001_OXA_439.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/ZAC001_KPC_2.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/ZAG001_KPC_2.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/ZCA001_NDM_5.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/ZCA001_OXA_163.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/ZCU001_KPC_2.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/ZCU001_OXA_163.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/ZCV001_KPC_3.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/ZDA001_NDM_5.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/ZDA002_KPC_2.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/ZDZ001_KPC_2.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/ZEI002_KPC_2.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/pHdC_pae_OL780449.1.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/pWW14A-KPC2_CP080103.1.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/renamed_fastas/pWW19C-KPC2_CP080110.1.renamed.fasta	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/representatives_PS0007/cluster_representatives_PS0007.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/representatives_PS0007/minimal_manuscript_changes.md	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/representatives_PS0007/plasmid_cluster_PS0007.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/representatives_PS0007/plasmid_cluster_PS0007_annotated.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/representatives_PS0007/representative_comparison_vs_original.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/representatives_PS0007/representative_selection_command.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/representatives_PS0007/representatives_PS0007.fa	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/representatives_PS0007/work/cluster_analysis/plasmid_cluster.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/representatives_PS0007/work/cluster_representatives_medoid.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/representatives_PS0007/work/representatives_medoid.fa	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/representatives_medoid.fa	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/run_manifest.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/sensitivity_analysis/blast_all_vs_all_coords.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/sensitivity_analysis/bridge_edges_pCOS00198_to_C03.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/sensitivity_analysis/cluster_memberships_by_parameter_set.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/sensitivity_analysis/logs/edge_focus_precheck.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/sensitivity_analysis/logs/initial_file_inspection.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/sensitivity_analysis/logs/pairwise_focus_rows.tmp	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/sensitivity_analysis/logs/sensitivity_generation.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/sensitivity_analysis/pCOS00198_focus_pairwise_metrics.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/sensitivity_analysis/pCOS00198_merge_diagnostic.md	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/sensitivity_analysis/parameter_grid_results.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/sensitivity_analysis/recommended_cluster_definition.md	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/assembly_inventory_PS0007.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/assignment_comparison_vs_old.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ATB_HCF003.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ATB_JP2001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/FAV001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/FAV002.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/GUT001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/HCE001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/HCF002.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/HCM001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/HCU001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/HMI-004.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/HMI002.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/HMI003.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/HMQ001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/HSP001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/HVB003.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/HVB004.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/JAF001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/JP2-2.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/PAD001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/RSP001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZAN001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZAT001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZAT002.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZAT003.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZAU001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZBB001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZBB002.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZBB003.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZBE001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZBE002.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZBE_001_SECOND_NEW_assembly.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZBE_002_SECOND_NEW_assembly.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZBF001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZBF002.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZBF003.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZBK001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZBN002.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZBW003.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZCC001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZCC002.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZCC003.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZCE002.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZCG001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZCH001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZCS001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZCY001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZCZ_001_SECOND_New_assembly.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZDD001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZDL004.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZEB001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZEI001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZET001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZEU001.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZEU002.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZEV013.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZEV015.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/blast/ZEV019.contigs.blastn.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ATB_HCF003.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ATB_JP2001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_FAV001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_FAV002.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_GUT001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_HCE001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_HCF002.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_HCM001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_HCU001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_HMI-004.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_HMI002.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_HMI003.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_HMQ001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_HSP001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_HVB003.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_HVB004.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_JAF001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_JP2-2.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_PAD001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_RSP001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZAN001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZAT001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZAT002.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZAT003.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZAU001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZBB001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZBB002.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZBB003.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZBE001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZBE002.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZBE_001_SECOND_NEW_assembly.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZBE_002_SECOND_NEW_assembly.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZBF001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZBF002.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZBF003.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZBK001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZBN002.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZBW003.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZCC001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZCC002.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZCC003.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZCE002.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZCG001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZCH001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZCS001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZCY001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZCZ_001_SECOND_New_assembly.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZDD001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZDL004.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZEB001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZEI001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZET001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZEU001.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZEU002.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZEV013.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZEV015.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/blast_ZEV019.contigs.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/makeblastdb.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/logs/run_short_read_assignment_PS0007.log	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/multiple_assignment_cases_PS0007.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/preflight_short_read_assignment.md	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/ref/representatives_PS0007.ndb	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/ref/representatives_PS0007.nhr	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/ref/representatives_PS0007.nin	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/ref/representatives_PS0007.njs	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/ref/representatives_PS0007.not	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/ref/representatives_PS0007.nsq	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/ref/representatives_PS0007.ntf	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/ref/representatives_PS0007.nto	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/representative_inventory_PS0007.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/short_read_assignment_report.md	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/short_representative_delta_check_PS0007.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/short_read_assignment_PS0007/unassigned_samples_PS0007.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/updated_table_PS0007/cluster_label_crosswalk_PS0007.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/updated_table_PS0007/generation_summary.json	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/updated_table_PS0007/metadata_join_preview.tsv	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/updated_table_PS0007/updated_cluster_table_PS0007.md	Historical working output excluded because the minimal PS0007 provenance is retained
+Original computational repository	reproducibility_run_20260620_1504/updated_table_PS0007/updated_cluster_table_PS0007_simplified_hits.tsv	Historical working output excluded because the minimal PS0007 provenance is retained

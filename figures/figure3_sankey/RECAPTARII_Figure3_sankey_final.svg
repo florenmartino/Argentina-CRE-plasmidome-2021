@@ -1,0 +1,203 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1320" viewBox="0 0 1800 1320" role="img" aria-label="Figure 3 Sankey diagram">
+<rect x="0" y="0" width="1800" height="1320" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<text x="128" y="42" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="128" dy="0" font-style="normal">Distribution of species, sequence types, plasmid backbones and carbapenemase genes</tspan></text>
+<text x="128" y="76" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#4B5563" text-anchor="start" xml:space="preserve"><tspan x="128" dy="0" font-style="normal">Among 70 isolates, 68 carried at least one carbapenemase gene. Sixty-three carbapenemase-positive isolates with an assigned plasmid backbone were included in the Sankey</tspan><tspan x="128" dy="18" font-style="normal">diagram. Four isolates carrying two carbapenemase-bearing plasmids were expanded into two backbone-level flows, yielding a total of 67 flows.</tspan></text>
+<text x="185" y="136" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="185" dy="0" font-style="normal">Species</tspan></text>
+<text x="560" y="136" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="560" dy="0" font-style="normal">Sequence type</tspan></text>
+<text x="1045" y="136" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="1045" dy="0" font-style="normal">Plasmid backbone</tspan></text>
+<text x="1560" y="136" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="1560" dy="0" font-style="normal">Carbapenemase gene</tspan></text>
+<path d="M195,176.5 C384.8,176.5 370.2,162.5 560,162.5 L560,202.5 C370.2,202.5 384.8,216.5 195,216.5 Z" fill="#0B6B3A" fill-opacity="0.43" stroke="none"/>
+<path d="M195,216.5 C384.8,216.5 370.2,202.5 560,202.5 L560,212.5 C370.2,212.5 384.8,226.5 195,226.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M195,226.5 C384.8,226.5 370.2,212.5 560,212.5 L560,242.5 C370.2,242.5 384.8,256.5 195,256.5 Z" fill="#7A1A7A" fill-opacity="0.43" stroke="none"/>
+<path d="M195,256.5 C384.8,256.5 370.2,242.5 560,242.5 L560,262.5 C370.2,262.5 384.8,276.5 195,276.5 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M195,276.5 C384.8,276.5 370.2,262.5 560,262.5 L560,332.5 C370.2,332.5 384.8,346.5 195,346.5 Z" fill="#D7191C" fill-opacity="0.43" stroke="none"/>
+<path d="M195,346.5 C384.8,346.5 370.2,337.5 560,337.5 L560,377.5 C370.2,377.5 384.8,386.5 195,386.5 Z" fill="#0B6B3A" fill-opacity="0.43" stroke="none"/>
+<path d="M195,386.5 C384.8,386.5 370.2,377.5 560,377.5 L560,387.5 C370.2,387.5 384.8,396.5 195,396.5 Z" fill="#7A1A7A" fill-opacity="0.43" stroke="none"/>
+<path d="M195,396.5 C384.8,396.5 370.2,387.5 560,387.5 L560,397.5 C370.2,397.5 384.8,406.5 195,406.5 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M195,406.5 C384.8,406.5 370.2,397.5 560,397.5 L560,477.5 C370.2,477.5 384.8,486.5 195,486.5 Z" fill="#D7191C" fill-opacity="0.43" stroke="none"/>
+<path d="M195,486.5 C384.8,486.5 370.2,482.5 560,482.5 L560,492.5 C370.2,492.5 384.8,496.5 195,496.5 Z" fill="#0B6B3A" fill-opacity="0.43" stroke="none"/>
+<path d="M195,496.5 C384.8,496.5 370.2,492.5 560,492.5 L560,512.5 C370.2,512.5 384.8,516.5 195,516.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M195,516.5 C384.8,516.5 370.2,517.5 560,517.5 L560,527.5 C370.2,527.5 384.8,526.5 195,526.5 Z" fill="#0B6B3A" fill-opacity="0.43" stroke="none"/>
+<path d="M195,526.5 C384.8,526.5 370.2,527.5 560,527.5 L560,537.5 C370.2,537.5 384.8,536.5 195,536.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M195,536.5 C384.8,536.5 370.2,537.5 560,537.5 L560,547.5 C370.2,547.5 384.8,546.5 195,546.5 Z" fill="#8B8F96" fill-opacity="0.43" stroke="none"/>
+<path d="M195,546.5 C384.8,546.5 370.2,552.5 560,552.5 L560,572.5 C370.2,572.5 384.8,566.5 195,566.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M195,566.5 C384.8,566.5 370.2,572.5 560,572.5 L560,582.5 C370.2,582.5 384.8,576.5 195,576.5 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M195,576.5 C384.8,576.5 370.2,587.5 560,587.5 L560,617.5 C370.2,617.5 384.8,606.5 195,606.5 Z" fill="#7A1A7A" fill-opacity="0.43" stroke="none"/>
+<path d="M195,606.5 C384.8,606.5 370.2,672.5 560,672.5 L560,692.5 C370.2,692.5 384.8,626.5 195,626.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M195,626.5 C384.8,626.5 370.2,747.5 560,747.5 L560,757.5 C370.2,757.5 384.8,636.5 195,636.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M195,636.5 C384.8,636.5 370.2,762.5 560,762.5 L560,772.5 C370.2,772.5 384.8,646.5 195,646.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M195,646.5 C384.8,646.5 370.2,792.5 560,792.5 L560,802.5 C370.2,802.5 384.8,656.5 195,656.5 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M195,656.5 C384.8,656.5 370.2,807.5 560,807.5 L560,817.5 C370.2,817.5 384.8,666.5 195,666.5 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M195,666.5 C384.8,666.5 370.2,822.5 560,822.5 L560,832.5 C370.2,832.5 384.8,676.5 195,676.5 Z" fill="#7A1A7A" fill-opacity="0.43" stroke="none"/>
+<path d="M195,676.5 C384.8,676.5 370.2,852.5 560,852.5 L560,862.5 C370.2,862.5 384.8,686.5 195,686.5 Z" fill="#7A1A7A" fill-opacity="0.43" stroke="none"/>
+<path d="M195,686.5 C384.8,686.5 370.2,867.5 560,867.5 L560,877.5 C370.2,877.5 384.8,696.5 195,696.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M195,696.5 C384.8,696.5 370.2,882.5 560,882.5 L560,892.5 C370.2,892.5 384.8,706.5 195,706.5 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M195,706.5 C384.8,706.5 370.2,912.5 560,912.5 L560,922.5 C370.2,922.5 384.8,716.5 195,716.5 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M195,716.5 C384.8,716.5 370.2,927.5 560,927.5 L560,937.5 C370.2,937.5 384.8,726.5 195,726.5 Z" fill="#7A1A7A" fill-opacity="0.43" stroke="none"/>
+<path d="M195,726.5 C384.8,726.5 370.2,942.5 560,942.5 L560,952.5 C370.2,952.5 384.8,736.5 195,736.5 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M195,750.5 C384.8,750.5 370.2,657.5 560,657.5 L560,667.5 C370.2,667.5 384.8,760.5 195,760.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M195,760.5 C384.8,760.5 370.2,697.5 560,697.5 L560,717.5 C370.2,717.5 384.8,780.5 195,780.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M195,780.5 C384.8,780.5 370.2,722.5 560,722.5 L560,742.5 C370.2,742.5 384.8,800.5 195,800.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M195,800.5 C384.8,800.5 370.2,777.5 560,777.5 L560,787.5 C370.2,787.5 384.8,810.5 195,810.5 Z" fill="#4B5563" fill-opacity="0.43" stroke="none"/>
+<path d="M195,824.5 C384.8,824.5 370.2,622.5 560,622.5 L560,642.5 C370.2,642.5 384.8,844.5 195,844.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M195,858.5 C384.8,858.5 370.2,837.5 560,837.5 L560,847.5 C370.2,847.5 384.8,868.5 195,868.5 Z" fill="#D7191C" fill-opacity="0.43" stroke="none"/>
+<path d="M195,882.5 C384.8,882.5 370.2,642.5 560,642.5 L560,652.5 C370.2,652.5 384.8,892.5 195,892.5 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M195,906.5 C384.8,906.5 370.2,897.5 560,897.5 L560,907.5 C370.2,907.5 384.8,916.5 195,916.5 Z" fill="#7A1A7A" fill-opacity="0.43" stroke="none"/>
+<path d="M570,162.5 C817,162.5 798,203 1045,203 L1045,243 C798,243 817,202.5 570,202.5 Z" fill="#0B6B3A" fill-opacity="0.43" stroke="none"/>
+<path d="M570,202.5 C817,202.5 798,317 1045,317 L1045,327 C798,327 817,212.5 570,212.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M570,212.5 C817,212.5 798,511 1045,511 L1045,541 C798,541 817,242.5 570,242.5 Z" fill="#7A1A7A" fill-opacity="0.43" stroke="none"/>
+<path d="M570,242.5 C817,242.5 798,635 1045,635 L1045,655 C798,655 817,262.5 570,262.5 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M570,262.5 C817,262.5 798,749 1045,749 L1045,819 C798,819 817,332.5 570,332.5 Z" fill="#D7191C" fill-opacity="0.43" stroke="none"/>
+<path d="M570,337.5 C817,337.5 798,243 1045,243 L1045,283 C798,283 817,377.5 570,377.5 Z" fill="#0B6B3A" fill-opacity="0.43" stroke="none"/>
+<path d="M570,377.5 C817,377.5 798,541 1045,541 L1045,551 C798,551 817,387.5 570,387.5 Z" fill="#7A1A7A" fill-opacity="0.43" stroke="none"/>
+<path d="M570,387.5 C817,387.5 798,655 1045,655 L1045,665 C798,665 817,397.5 570,397.5 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M570,397.5 C817,397.5 798,819 1045,819 L1045,899 C798,899 817,477.5 570,477.5 Z" fill="#D7191C" fill-opacity="0.43" stroke="none"/>
+<path d="M570,482.5 C817,482.5 798,283 1045,283 L1045,293 C798,293 817,492.5 570,492.5 Z" fill="#0B6B3A" fill-opacity="0.43" stroke="none"/>
+<path d="M570,492.5 C817,492.5 798,327 1045,327 L1045,347 C798,347 817,512.5 570,512.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M570,517.5 C817,517.5 798,293 1045,293 L1045,303 C798,303 817,527.5 570,527.5 Z" fill="#0B6B3A" fill-opacity="0.43" stroke="none"/>
+<path d="M570,527.5 C817,527.5 798,347 1045,347 L1045,357 C798,357 817,537.5 570,537.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M570,537.5 C817,537.5 798,923 1045,923 L1045,933 C798,933 817,547.5 570,547.5 Z" fill="#8B8F96" fill-opacity="0.43" stroke="none"/>
+<path d="M570,552.5 C817,552.5 798,357 1045,357 L1045,377 C798,377 817,572.5 570,572.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M570,572.5 C817,572.5 798,665 1045,665 L1045,675 C798,675 817,582.5 570,582.5 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M570,587.5 C817,587.5 798,551 1045,551 L1045,581 C798,581 817,617.5 570,617.5 Z" fill="#7A1A7A" fill-opacity="0.43" stroke="none"/>
+<path d="M570,622.5 C817,622.5 798,377 1045,377 L1045,397 C798,397 817,642.5 570,642.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M570,642.5 C817,642.5 798,675 1045,675 L1045,685 C798,685 817,652.5 570,652.5 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M570,657.5 C817,657.5 798,397 1045,397 L1045,407 C798,407 817,667.5 570,667.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M570,672.5 C817,672.5 798,407 1045,407 L1045,427 C798,427 817,692.5 570,692.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M570,697.5 C817,697.5 798,427 1045,427 L1045,447 C798,447 817,717.5 570,717.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M570,722.5 C817,722.5 798,447 1045,447 L1045,467 C798,467 817,742.5 570,742.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M570,747.5 C817,747.5 798,467 1045,467 L1045,477 C798,477 817,757.5 570,757.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M570,762.5 C817,762.5 798,477 1045,477 L1045,487 C798,487 817,772.5 570,772.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M570,777.5 C817,777.5 798,947 1045,947 L1045,957 C798,957 817,787.5 570,787.5 Z" fill="#4B5563" fill-opacity="0.43" stroke="none"/>
+<path d="M570,792.5 C817,792.5 798,685 1045,685 L1045,695 C798,695 817,802.5 570,802.5 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M570,807.5 C817,807.5 798,695 1045,695 L1045,705 C798,705 817,817.5 570,817.5 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M570,822.5 C817,822.5 798,581 1045,581 L1045,591 C798,591 817,832.5 570,832.5 Z" fill="#7A1A7A" fill-opacity="0.43" stroke="none"/>
+<path d="M570,837.5 C817,837.5 798,899 1045,899 L1045,909 C798,909 817,847.5 570,847.5 Z" fill="#D7191C" fill-opacity="0.43" stroke="none"/>
+<path d="M570,852.5 C817,852.5 798,591 1045,591 L1045,601 C798,601 817,862.5 570,862.5 Z" fill="#7A1A7A" fill-opacity="0.43" stroke="none"/>
+<path d="M570,867.5 C817,867.5 798,487 1045,487 L1045,497 C798,497 817,877.5 570,877.5 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M570,882.5 C817,882.5 798,705 1045,705 L1045,715 C798,715 817,892.5 570,892.5 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M570,897.5 C817,897.5 798,601 1045,601 L1045,611 C798,611 817,907.5 570,907.5 Z" fill="#7A1A7A" fill-opacity="0.43" stroke="none"/>
+<path d="M570,912.5 C817,912.5 798,715 1045,715 L1045,725 C798,725 817,922.5 570,922.5 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M570,927.5 C817,927.5 798,611 1045,611 L1045,621 C798,621 817,937.5 570,937.5 Z" fill="#7A1A7A" fill-opacity="0.43" stroke="none"/>
+<path d="M570,942.5 C817,942.5 798,725 1045,725 L1045,735 C798,735 817,952.5 570,952.5 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M1057,203 C1318.56,203 1298.44,190 1560,190 L1560,270 C1298.44,270 1318.56,283 1057,283 Z" fill="#0B6B3A" fill-opacity="0.43" stroke="none"/>
+<path d="M1057,283 C1318.56,283 1298.44,464 1560,464 L1560,474 C1298.44,474 1318.56,293 1057,293 Z" fill="#0B6B3A" fill-opacity="0.43" stroke="none"/>
+<path d="M1057,293 C1318.56,293 1298.44,528 1560,528 L1560,538 C1298.44,538 1318.56,303 1057,303 Z" fill="#0B6B3A" fill-opacity="0.43" stroke="none"/>
+<path d="M1057,317 C1318.56,317 1298.44,270 1560,270 L1560,420 C1298.44,420 1318.56,467 1057,467 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M1057,467 C1318.56,467 1298.44,474 1560,474 L1560,504 C1298.44,504 1318.56,497 1057,497 Z" fill="#0B4EA2" fill-opacity="0.43" stroke="none"/>
+<path d="M1057,511 C1318.56,511 1298.44,420 1560,420 L1560,440 C1298.44,440 1318.56,531 1057,531 Z" fill="#7A1A7A" fill-opacity="0.43" stroke="none"/>
+<path d="M1057,531 C1318.56,531 1298.44,538 1560,538 L1560,628 C1298.44,628 1318.56,621 1057,621 Z" fill="#7A1A7A" fill-opacity="0.43" stroke="none"/>
+<path d="M1057,635 C1318.56,635 1298.44,504 1560,504 L1560,514 C1298.44,514 1318.56,645 1057,645 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M1057,645 C1318.56,645 1298.44,802 1560,802 L1560,842 C1298.44,842 1318.56,685 1057,685 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M1057,685 C1318.56,685 1298.44,856 1560,856 L1560,896 C1298.44,896 1318.56,725 1057,725 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M1057,725 C1318.56,725 1298.44,910 1560,910 L1560,920 C1298.44,920 1318.56,735 1057,735 Z" fill="#F28C00" fill-opacity="0.43" stroke="none"/>
+<path d="M1057,749 C1318.56,749 1298.44,628 1560,628 L1560,788 C1298.44,788 1318.56,909 1057,909 Z" fill="#D7191C" fill-opacity="0.43" stroke="none"/>
+<path d="M1057,923 C1318.56,923 1298.44,440 1560,440 L1560,450 C1298.44,450 1318.56,933 1057,933 Z" fill="#8B8F96" fill-opacity="0.43" stroke="none"/>
+<path d="M1057,947 C1318.56,947 1298.44,934 1560,934 L1560,944 C1298.44,944 1318.56,957 1057,957 Z" fill="#4B5563" fill-opacity="0.43" stroke="none"/>
+<rect x="185" y="176.5" width="10" height="560" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="176" y="461.328" font-family="Arial, Helvetica, sans-serif" font-size="14.2" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="176" dy="0" font-style="italic">K. pneumoniae</tspan><tspan font-style="normal"> (56)</tspan></text>
+<rect x="185" y="750.5" width="10" height="60" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="176" y="785.328" font-family="Arial, Helvetica, sans-serif" font-size="14.2" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="176" dy="0" font-style="italic">E. hormaechei</tspan><tspan font-style="normal"> (6)</tspan></text>
+<rect x="185" y="824.5" width="10" height="20" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="176" y="839.328" font-family="Arial, Helvetica, sans-serif" font-size="14.2" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="176" dy="0" font-style="italic">S. marcescens</tspan><tspan font-style="normal"> (2)</tspan></text>
+<rect x="185" y="858.5" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="176" y="867.92" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="176" dy="0" font-style="italic">E. coli</tspan><tspan font-style="normal"> (1)</tspan></text>
+<rect x="185" y="882.5" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="176" y="891.92" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="176" dy="0" font-style="italic">P. mirabilis</tspan><tspan font-style="normal"> (1)</tspan></text>
+<rect x="185" y="906.5" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="176" y="915.92" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="176" dy="0" font-style="italic">K. aerogenes</tspan><tspan font-style="normal"> (1)</tspan></text>
+<rect x="560" y="162.5" width="10" height="170" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="251.784" font-family="Arial, Helvetica, sans-serif" font-size="12.6" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST11 (17)</tspan></text>
+<rect x="560" y="337.5" width="10" height="140" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="411.784" font-family="Arial, Helvetica, sans-serif" font-size="12.6" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST258 (14)</tspan></text>
+<rect x="560" y="482.5" width="10" height="30" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="501.784" font-family="Arial, Helvetica, sans-serif" font-size="12.6" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST15 (3)</tspan></text>
+<rect x="560" y="517.5" width="10" height="30" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="536.784" font-family="Arial, Helvetica, sans-serif" font-size="12.6" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST25 (3)</tspan></text>
+<rect x="560" y="552.5" width="10" height="30" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="571.784" font-family="Arial, Helvetica, sans-serif" font-size="12.6" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST13 (3)</tspan></text>
+<rect x="560" y="587.5" width="10" height="30" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="606.784" font-family="Arial, Helvetica, sans-serif" font-size="12.6" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST307 (3)</tspan></text>
+<rect x="560" y="622.5" width="10" height="30" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="641.784" font-family="Arial, Helvetica, sans-serif" font-size="12.6" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">No ST (3)</tspan></text>
+<rect x="560" y="657.5" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="666.376" font-family="Arial, Helvetica, sans-serif" font-size="11.4" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST78 (1)</tspan></text>
+<rect x="560" y="672.5" width="10" height="20" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="686.784" font-family="Arial, Helvetica, sans-serif" font-size="12.6" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST716 (2)</tspan></text>
+<rect x="560" y="697.5" width="10" height="20" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="711.784" font-family="Arial, Helvetica, sans-serif" font-size="12.6" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST190 (2)</tspan></text>
+<rect x="560" y="722.5" width="10" height="20" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="736.784" font-family="Arial, Helvetica, sans-serif" font-size="12.6" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST66 (2)</tspan></text>
+<rect x="560" y="747.5" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="756.376" font-family="Arial, Helvetica, sans-serif" font-size="11.4" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST14 (1)</tspan></text>
+<rect x="560" y="762.5" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="771.376" font-family="Arial, Helvetica, sans-serif" font-size="11.4" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST37 (1)</tspan></text>
+<rect x="560" y="777.5" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="786.376" font-family="Arial, Helvetica, sans-serif" font-size="11.4" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST88 (1)</tspan></text>
+<rect x="560" y="792.5" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="801.376" font-family="Arial, Helvetica, sans-serif" font-size="11.4" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST147 (1)</tspan></text>
+<rect x="560" y="807.5" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="816.376" font-family="Arial, Helvetica, sans-serif" font-size="11.4" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST218 (1)</tspan></text>
+<rect x="560" y="822.5" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="831.376" font-family="Arial, Helvetica, sans-serif" font-size="11.4" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST273 (1)</tspan></text>
+<rect x="560" y="837.5" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="846.376" font-family="Arial, Helvetica, sans-serif" font-size="11.4" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST297 (1)</tspan></text>
+<rect x="560" y="852.5" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="861.376" font-family="Arial, Helvetica, sans-serif" font-size="11.4" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST392 (1)</tspan></text>
+<rect x="560" y="867.5" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="876.376" font-family="Arial, Helvetica, sans-serif" font-size="11.4" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST462 (1)</tspan></text>
+<rect x="560" y="882.5" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="891.376" font-family="Arial, Helvetica, sans-serif" font-size="11.4" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST525 (1)</tspan></text>
+<rect x="560" y="897.5" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="906.376" font-family="Arial, Helvetica, sans-serif" font-size="11.4" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST695 (1)</tspan></text>
+<rect x="560" y="912.5" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="921.376" font-family="Arial, Helvetica, sans-serif" font-size="11.4" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST2632 (1)</tspan></text>
+<rect x="560" y="927.5" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="936.376" font-family="Arial, Helvetica, sans-serif" font-size="11.4" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST5994 (1)</tspan></text>
+<rect x="560" y="942.5" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="551" y="951.376" font-family="Arial, Helvetica, sans-serif" font-size="11.4" font-weight="500" fill="#111827" text-anchor="end" xml:space="preserve"><tspan x="551" dy="0" font-style="normal">ST5995 (1)</tspan></text>
+<rect x="1045" y="203" width="12" height="100" rx="5" fill="#0B6B3A" stroke="#0B6B3A" stroke-width="0"/>
+<text x="1066" y="257.658" font-family="Arial, Helvetica, sans-serif" font-size="13.7" font-weight="500" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="1066" dy="0" font-style="normal">C01-IncR (10)</tspan></text>
+<rect x="1045" y="317" width="12" height="180" rx="5" fill="#0B4EA2" stroke="#0B4EA2" stroke-width="0"/>
+<text x="1066" y="411.658" font-family="Arial, Helvetica, sans-serif" font-size="13.7" font-weight="500" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="1066" dy="0" font-style="normal">C02-IncL/M (18)</tspan></text>
+<rect x="1045" y="511" width="12" height="110" rx="5" fill="#7A1A7A" stroke="#7A1A7A" stroke-width="0"/>
+<text x="1066" y="570.658" font-family="Arial, Helvetica, sans-serif" font-size="13.7" font-weight="500" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="1066" dy="0" font-style="normal">C03-IncFIB(Mar)/IncHI1B (11)</tspan></text>
+<rect x="1045" y="635" width="12" height="100" rx="5" fill="#F28C00" stroke="#F28C00" stroke-width="0"/>
+<text x="1066" y="689.658" font-family="Arial, Helvetica, sans-serif" font-size="13.7" font-weight="500" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="1066" dy="0" font-style="normal">C04-IncC (10)</tspan></text>
+<rect x="1045" y="749" width="12" height="160" rx="5" fill="#D7191C" stroke="#D7191C" stroke-width="0"/>
+<text x="1066" y="833.658" font-family="Arial, Helvetica, sans-serif" font-size="13.7" font-weight="500" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="1066" dy="0" font-style="normal">C05-IncFII (16)</tspan></text>
+<rect x="1045" y="923" width="12" height="10" rx="5" fill="#8B8F96" stroke="#8B8F96" stroke-width="0"/>
+<text x="1066" y="932.182" font-family="Arial, Helvetica, sans-serif" font-size="12.3" font-weight="500" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="1066" dy="0" font-style="normal">S01-ColRNAI (1)</tspan></text>
+<rect x="1045" y="947" width="12" height="10" rx="5" fill="#4B5563" stroke="#4B5563" stroke-width="0"/>
+<text x="1066" y="956.182" font-family="Arial, Helvetica, sans-serif" font-size="12.3" font-weight="500" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="1066" dy="0" font-style="normal">S03-IncHI1A/IncHI1B (1)</tspan></text>
+<rect x="1560" y="190" width="10" height="260" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="1579" y="324.726" font-family="Arial, Helvetica, sans-serif" font-size="13.9" font-weight="500" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="1579" dy="0" font-style="italic">blaKPC-2</tspan><tspan font-style="normal"> (26)</tspan></text>
+<rect x="1560" y="464" width="10" height="50" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="1579" y="493.726" font-family="Arial, Helvetica, sans-serif" font-size="13.9" font-weight="500" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="1579" dy="0" font-style="italic">blaKPC-3</tspan><tspan font-style="normal"> (5)</tspan></text>
+<rect x="1560" y="528" width="10" height="260" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="1579" y="662.726" font-family="Arial, Helvetica, sans-serif" font-size="13.9" font-weight="500" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="1579" dy="0" font-style="italic">blaNDM-5</tspan><tspan font-style="normal"> (26)</tspan></text>
+<rect x="1560" y="802" width="10" height="40" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="1579" y="826.726" font-family="Arial, Helvetica, sans-serif" font-size="13.9" font-weight="500" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="1579" dy="0" font-style="italic">blaNDM-1</tspan><tspan font-style="normal"> (4)</tspan></text>
+<rect x="1560" y="856" width="10" height="40" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="1579" y="880.726" font-family="Arial, Helvetica, sans-serif" font-size="13.9" font-weight="500" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="1579" dy="0" font-style="italic">blaOXA-163</tspan><tspan font-style="normal"> (4)</tspan></text>
+<rect x="1560" y="910" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="1579" y="919.182" font-family="Arial, Helvetica, sans-serif" font-size="12.3" font-weight="500" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="1579" dy="0" font-style="italic">blaOXA-517-like</tspan><tspan font-style="normal"> (1)</tspan></text>
+<rect x="1560" y="934" width="10" height="10" rx="5" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.05"/>
+<text x="1579" y="943.182" font-family="Arial, Helvetica, sans-serif" font-size="12.3" font-weight="500" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="1579" dy="0" font-style="italic">blaOXA-439</tspan><tspan font-style="normal"> (1)</tspan></text>
+<text x="128" y="1032" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="128" dy="0" font-style="normal">Backbone color key</tspan></text>
+<rect x="128" y="1051" width="11" height="11" rx="2" fill="#0B6B3A" stroke="#0B6B3A" stroke-width="0"/>
+<text x="146" y="1061" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="146" dy="0" font-style="normal">C01-IncR</tspan></text>
+<rect x="358" y="1051" width="11" height="11" rx="2" fill="#0B4EA2" stroke="#0B4EA2" stroke-width="0"/>
+<text x="376" y="1061" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="376" dy="0" font-style="normal">C02-IncL/M</tspan></text>
+<rect x="588" y="1051" width="11" height="11" rx="2" fill="#7A1A7A" stroke="#7A1A7A" stroke-width="0"/>
+<text x="606" y="1061" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="606" dy="0" font-style="normal">C03-IncFIB(Mar)/IncHI1B</tspan></text>
+<rect x="818" y="1051" width="11" height="11" rx="2" fill="#F28C00" stroke="#F28C00" stroke-width="0"/>
+<text x="836" y="1061" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="836" dy="0" font-style="normal">C04-IncC</tspan></text>
+<rect x="1048" y="1051" width="11" height="11" rx="2" fill="#D7191C" stroke="#D7191C" stroke-width="0"/>
+<text x="1066" y="1061" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="1066" dy="0" font-style="normal">C05-IncFII</tspan></text>
+<rect x="1278" y="1051" width="11" height="11" rx="2" fill="#8B8F96" stroke="#8B8F96" stroke-width="0"/>
+<text x="1296" y="1061" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="1296" dy="0" font-style="normal">S01-ColRNAI</tspan></text>
+<rect x="1508" y="1051" width="11" height="11" rx="2" fill="#4B5563" stroke="#4B5563" stroke-width="0"/>
+<text x="1526" y="1061" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="1526" dy="0" font-style="normal">S03-IncHI1A/IncHI1B</tspan></text>
+<text x="128" y="1112" font-family="Arial, Helvetica, sans-serif" font-size="12.6" font-weight="400" fill="#111827" text-anchor="start" xml:space="preserve"><tspan x="128" dy="0" font-style="normal">Figure 3. Distribution of bacterial species, multilocus sequence types (STs), plasmid backbone clusters, and carbapenemase genes among carbapenemase-producing isolates.</tspan><tspan x="128" dy="15.372" font-style="normal">The Sankey diagram summarizes plasmid backbone assignments based on the final curated reference backbone collection. Among the 70 isolates analyzed, 68 carried at least one</tspan><tspan x="128" dy="15.372" font-style="normal">carbapenemase gene. Sixty-three carbapenemase-positive isolates with an assigned plasmid backbone were included in the visualization. Four isolates carrying two carbapenemase-bearing</tspan><tspan x="128" dy="15.372" font-style="normal">plasmids (PAD003, ZCA001, ZCU001 and ZCZ001) were expanded into two independent backbone-level flows, resulting in 67 total flows.</tspan><tspan x="128" dy="15.372" font-style="normal">Clusters C01–C05 correspond to recurrent plasmid backbone groups, whereas S01 and S03 represent singleton plasmids. Carbapenemase-negative isolates and carbapenemase-positive</tspan><tspan x="128" dy="15.372" font-style="normal">isolates lacking an assigned plasmid backbone were excluded from the Sankey flows.</tspan><tspan x="128" dy="15.372" font-style="normal">Node counts correspond to backbone-level flows rather than unique isolates.</tspan></text>
+</svg>

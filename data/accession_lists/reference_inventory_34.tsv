@@ -1,0 +1,35 @@
+file_name	local_fasta	source	record_count	sequence_id	length_bp	validation_status	header	notes
+BAR001_KPC_2.fasta	data/plasmid_references/references_34/BAR001_KPC_2.fasta	original_30_reference_set	1	4	77141	PASS	>4 length=77141 depth=0.98x circular=true	
+CBO001_OXA_48L.fasta	data/plasmid_references/references_34/CBO001_OXA_48L.fasta	original_30_reference_set	1	3	149728	PASS	>3 length=149728 depth=3.23x circular=true	
+COS001_NDM_5.fasta	data/plasmid_references/references_34/COS001_NDM_5.fasta	original_30_reference_set	1	2	97647	PASS	>2 length=97647 depth=0.28x circular=true	
+CP166596.1_pM25992_249_IncFIB_IncHI1B_blaNDM-5.fasta	data/plasmid_references/references_34/CP166596.1_pM25992_249_IncFIB_IncHI1B_blaNDM-5.fasta	original_30_reference_set	1	CP166596.1	249062	PASS	>CP166596.1 Klebsiella pneumoniae strain M25992 plasmid pM25992_249, complete sequence	
+CP166597.1_pM25992_10_IncFIB_pQil_IncFII_K_blaKPC-2_.fasta	data/plasmid_references/references_34/CP166597.1_pM25992_10_IncFIB_pQil_IncFII_K_blaKPC-2_.fasta	original_30_reference_set	1	CP166597.1	106787	PASS	>CP166597.1 Klebsiella pneumoniae strain M25992 plasmid pM25992_106, complete sequence	
+CP166600.1_pM25979_249_IncFIB-IncHI1B_blaNDM-5_.fasta	data/plasmid_references/references_34/CP166600.1_pM25979_249_IncFIB-IncHI1B_blaNDM-5_.fasta	original_30_reference_set	1	CP166600.1	249264	PASS	>CP166600.1 Klebsiella pneumoniae strain M25979 plasmid pM25979_249, complete sequence	
+CP166602.1_pM25979_84_IncM1_blaKPC-2.fasta	data/plasmid_references/references_34/CP166602.1_pM25979_84_IncM1_blaKPC-2.fasta	original_30_reference_set	1	CP166602.1	84276	PASS	>CP166602.1 Klebsiella pneumoniae strain M25979 plasmid pM25979_84, complete sequence	
+CP166604.1_pM27284_154_IncC_blaNDM-1.fasta	data/plasmid_references/references_34/CP166604.1_pM27284_154_IncC_blaNDM-1.fasta	original_30_reference_set	1	CP166604.1	154458	PASS	>CP166604.1 Klebsiella pneumoniae strain M27284 plasmid pM27284_154, complete sequence	
+CP166605.1_pM27284_79_IncR_blaKPC-3_.fasta	data/plasmid_references/references_34/CP166605.1_pM27284_79_IncR_blaKPC-3_.fasta	original_30_reference_set	1	CP166605.1	79415	PASS	>CP166605.1 Klebsiella pneumoniae strain M27284 plasmid pM27284_79, complete sequence	
+HCU002_NDM_1.fasta	data/plasmid_references/references_34/HCU002_NDM_1.fasta	original_30_reference_set	1	3	150789	PASS	>3 length=150789 depth=0.78x circular=true	
+MH995507.1_pM17277_NDM.fasta	data/plasmid_references/references_34/MH995507.1_pM17277_NDM.fasta	original_30_reference_set	1	MH995507.1	138998	PASS	>MH995507.1 Klebsiella quasipneumoniae subsp. quasipneumoniae strain KQN17277 plasmid pKQN17277, complete sequence	
+MN082782.1_pPA2047.fasta	data/plasmid_references/references_34/MN082782.1_pPA2047.fasta	original_30_reference_set	1	MN082782.1	43660	PASS	>MN082782.1 Pseudomonas aeruginosa strain 2047 plasmid pPA2047, complete sequence	
+PAD003_KPC_2.fasta	data/plasmid_references/references_34/PAD003_KPC_2.fasta	original_30_reference_set	1	4	21651	PASS	>4 length=21651 depth=0.72x circular=true	
+PAD003_NDM_5.fasta	data/plasmid_references/references_34/PAD003_NDM_5.fasta	original_30_reference_set	1	3	130638	PASS	>3 length=130638 depth=1.03x circular=true	
+PQ241462.1.fasta	data/plasmid_references/references_34/PQ241462.1.fasta	genbank_missing_downloaded_for_final_reference_set	1	PQ241462.1	104782	PASS	>PQ241462.1 Escherichia coli strain Ec265 plasmid pEco265-NDM5, complete sequence	Header states pEco265-NDM5; verify against any manuscript/project references to pEco256 before renaming or interpreting.
+PQ241463.1.fasta	data/plasmid_references/references_34/PQ241463.1.fasta	genbank_missing_downloaded_for_final_reference_set	1	PQ241463.1	97651	PASS	>PQ241463.1 Klebsiella pneumoniae subsp. pneumoniae strain M144 plasmid pM144-NDM5, complete sequence	
+PQ247031.1.fasta	data/plasmid_references/references_34/PQ247031.1.fasta	genbank_missing_downloaded_for_final_reference_set	1	PQ247031.1	258482	PASS	>PQ247031.1 Klebsiella pneumoniae subsp. pneumoniae strain M40 plasmid pM40-NDM5, complete sequence	
+PQ247032.1.fasta	data/plasmid_references/references_34/PQ247032.1.fasta	genbank_missing_downloaded_for_final_reference_set	1	PQ247032.1	252810	PASS	>PQ247032.1 Klebsiella pneumoniae subsp. pneumoniae strain M144 plasmid pM366-NDM5, complete sequence	
+ROS002_KPC_2.fasta	data/plasmid_references/references_34/ROS002_KPC_2.fasta	original_30_reference_set	1	2	77141	PASS	>2 length=77141 depth=1.89x circular=true	
+VLP001_OXA_439.fasta	data/plasmid_references/references_34/VLP001_OXA_439.fasta	original_30_reference_set	1	2	338985	PASS	>2 length=338985 depth=1.28x circular=true	
+ZAC001_KPC_2.fasta	data/plasmid_references/references_34/ZAC001_KPC_2.fasta	original_30_reference_set	1	5	148374	PASS	>5 length=148374 depth=0.52x circular=true	
+ZAG001_KPC_2.fasta	data/plasmid_references/references_34/ZAG001_KPC_2.fasta	original_30_reference_set	1	2	232044	PASS	>2 length=232044 depth=0.56x circular=true	
+ZCA001_NDM_5.fasta	data/plasmid_references/references_34/ZCA001_NDM_5.fasta	original_30_reference_set	1	2	255709	PASS	>2 length=255709 depth=0.63x circular=true	
+ZCA001_OXA_163.fasta	data/plasmid_references/references_34/ZCA001_OXA_163.fasta	original_30_reference_set	1	4	134201	PASS	>4 length=134201 depth=0.32x circular=true	
+ZCU001_KPC_2.fasta	data/plasmid_references/references_34/ZCU001_KPC_2.fasta	original_30_reference_set	1	6	76609	PASS	>6 length=76609 depth=0.32x circular=true	
+ZCU001_OXA_163.fasta	data/plasmid_references/references_34/ZCU001_OXA_163.fasta	original_30_reference_set	1	4	131526	PASS	>4 length=131526 depth=0.31x circular=true	
+ZCV001_KPC_3.fasta	data/plasmid_references/references_34/ZCV001_KPC_3.fasta	original_30_reference_set	1	2	167061	PASS	>2 length=167061 depth=1.60x circular=true	
+ZDA001_NDM_5.fasta	data/plasmid_references/references_34/ZDA001_NDM_5.fasta	original_30_reference_set	1	2	456203	PASS	>2 length=456203 depth=1.53x circular=true	
+ZDA002_KPC_2.fasta	data/plasmid_references/references_34/ZDA002_KPC_2.fasta	original_30_reference_set	1	4	73455	PASS	>4 length=73455 depth=0.27x circular=true	
+ZDZ001_KPC_2.fasta	data/plasmid_references/references_34/ZDZ001_KPC_2.fasta	original_30_reference_set	1	3	75350	PASS	>3 length=75350 depth=1.03x circular=true	
+ZEI002_KPC_2.fasta	data/plasmid_references/references_34/ZEI002_KPC_2.fasta	original_30_reference_set	1	3	54777	PASS	>3 length=54777 depth=0.30x circular=true	
+pHdC_pae_OL780449.1.fasta	data/plasmid_references/references_34/pHdC_pae_OL780449.1.fasta	original_30_reference_set	1	OL780449.1	42750	PASS	>OL780449.1 Pseudomonas aeruginosa strain HdC plasmid unnamed, complete sequence	
+pWW14A-KPC2_CP080103.1.fasta	data/plasmid_references/references_34/pWW14A-KPC2_CP080103.1.fasta	original_30_reference_set	1	CP080103.1	40407	PASS	>CP080103.1 Klebsiella quasipneumoniae strain WW-14A plasmid pWW14A-KPC2, complete sequence	
+pWW19C-KPC2_CP080110.1.fasta	data/plasmid_references/references_34/pWW19C-KPC2_CP080110.1.fasta	original_30_reference_set	1	CP080110.1	34721	PASS	>CP080110.1 Enterobacter asburiae strain WW-19C plasmid pWW19C-KPC2, complete sequence	
